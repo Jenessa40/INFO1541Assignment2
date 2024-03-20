@@ -1,4 +1,4 @@
-package $org.example;
+package EmployeeObjects;
 
 import EmployeeObjects.CommissionEmployee;
 import EmployeeObjects.HourlyEmployee;
